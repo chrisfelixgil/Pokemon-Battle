@@ -14,9 +14,9 @@ Juego de consola inspirado en Pokémon con arte ASCII y narrativa guiada. El jug
 ## 📸 Capturas de Pantalla
 A continuación, se muestran capturas del juego en ejecución:
 
-1. `imgs/Intro.png`
-2. `imgs/Oka.png`
-3. `imgs/Pokemon_battle.png`
+1. `img/Intro.png`
+2. `img/Oka.png`
+3. `img/Pokemon_battle.png`
 
 
 ## 🚀 Instrucciones de Uso
